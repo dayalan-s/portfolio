@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color:white;
+}
+
+header {
+    background-color:lightsalmon;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 50px;
+}
+.a {
+    font-size: 15px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+section {
+    padding: 300px;
+    margin: 10px;
+    background: white;
+    border-radius: 10px;
+    font: optional;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background: #333;
+    color: white;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+#home {
+    background-image: url('img.jpeg');
+    background-size: 1500px;
+    background-position: 0cqb;
+}
+#about {
+    background-image: url('teacher-s-day-elements-composition.jpg');
+    background-size: 1300px;
+    background-position: 0cqb;
+}
+h2 { 
+    font-size: 50px;
+    text-align: left;
+    text-decoration-style: solid;
+    color: black;
+    text-shadow: 2px 2px 4px #000000;
+    text-decoration-color: black;
+    display: inline;
+}
+ol.skills {
+   text-align: left;
+   font-size: 30px;
+}
+.b {
+    font-size: 30px;
+    text-align: left;
+}
+#resume {
+    background-image: url('oo.jpg');
+    background-size: 1200px;
+    padding-top: 10;
+    padding:150px;
+}
+h3 {
+    font-display: top;
+   text-decoration-style:solid ;  
+   font-size: 30px;
+}
+#portfolio {
+    background-image: url('—Pngtree—abstract\ simple\ background\ portfolio_1447415\ \(1\).png');
+    background-size: 1280px;
+    padding-top: 10;
+    padding:150px;
+}
